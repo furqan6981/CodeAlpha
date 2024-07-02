@@ -1,2 +1,0 @@
-# CodeAlpha
-Summer Internship (Remote)
